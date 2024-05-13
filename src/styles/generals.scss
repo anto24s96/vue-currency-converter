@@ -1,0 +1,32 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #14213D;
+}
+
+.my-container{
+    max-width: 900px;
+    border: 5px solid #FCA311;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.my-title{
+    color: #FCA311;
+    font-size: 45px;
+}
+
+.my-select,
+.my-select:focus{
+    background-color: #FCA311;
+    color: #14213D;
+    font-weight: bolder;
+    font-size: 20px;
+}
