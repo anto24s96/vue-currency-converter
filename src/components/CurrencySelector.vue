@@ -182,5 +182,3 @@ export default {
 </template>
 
 <style lang="scss" scoped></style>
-
-<!-- Rapporto tra NOMECURRENCY e NOMECURRENCY2  -->
